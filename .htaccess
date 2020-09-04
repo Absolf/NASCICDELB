@@ -1,6 +1,6 @@
 Options +ExecCGI
 AddHandler cgi-script .cgi
 AuthType Basic
-AuthName 'Please login to access this page'
+AuthName 'Deploy funfou pae'
 AuthUserFile '/etc/httpd/conf/.htpasswd'
 Require valid-user 
