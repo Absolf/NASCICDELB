@@ -545,7 +545,7 @@
 	
 	//ON/OFF Show/Hide Second "Significant smell sense impairment,COVID-19 testing higly recommended"
 	 // Start establishing connection...
-		$dsn = 'mysql:host=nasum-prd-rds-app.ckokj4dipzqi.eu-west-1.rds.amazonaws.com;dbname=nasumtech';
+		$dsn = 'mysql:host=victor-test-rds-app.c3xjvxkdhthn.us-east-1.rds.amazonaws.com;dbname=nasumtech';
 		//DB username
 		//$uname = $_SERVER['DB_USERNAME'];
 		//DB password
